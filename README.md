@@ -18,8 +18,8 @@ After download/unzip/installation, in resulted folder run:
 to run local/develop
 - `node server.js` and the server will listen at http://localhost:3000
 - in browser access http://localhost:3000 
-- upload a file  in Example Usage below
-- example Output `{"name":"logo.png","type":"image/png","size":6205}` with info about updated file
+- upload a file
+- example Output `{"name":"logo.png","type":"image/png","size":6205}` with json info about updated file
 
 ## Copyright and License
 
